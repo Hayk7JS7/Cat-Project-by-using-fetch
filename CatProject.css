@@ -1,0 +1,29 @@
+body{
+    color: black;
+    font-size: 20px;
+    font-family: cursive;
+    background: whitesmoke;
+}
+h2{
+    text-align: center;
+}
+.categories-child{
+    transition: 0.75s;
+}
+.categories-child:hover{
+    opacity: 0.5;
+}
+.all-categories{
+    width: 200px;
+    height: 200px;
+}
+#hi{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.images-children{
+    width: 250px;
+    height: 250px;
+}
